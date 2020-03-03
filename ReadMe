@@ -2,8 +2,6 @@ K-Nearest Neighbours Classification
 
 K-Nearest Neighbours or KNN is one of the simplest and commonly used algorithms for both regression and classification problems. K denotes a parametric value that denotes the number of nearest datapoints that influences the prediction. The simplest way to define KNN is that it predicts the classes or values based on the classes or values of the neighbouring data points.
 
-For a deeper understanding of KNN, use the following resources:
-
 Nearest Neighbors
 K-nearest neighbours
 A Complete Guide For Beginning With K-Nearest Neighbours Algorithm In Python
