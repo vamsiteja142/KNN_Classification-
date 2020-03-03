@@ -1,0 +1,25 @@
+K-Nearest Neighbours Classification
+
+K-Nearest Neighbours or KNN is one of the simplest and commonly used algorithms for both regression and classification problems. K denotes a parametric value that denotes the number of nearest datapoints that influences the prediction. The simplest way to define KNN is that it predicts the classes or values based on the classes or values of the neighbouring data points.
+
+For a deeper understanding of KNN, use the following resources:
+
+Nearest Neighbors
+K-nearest neighbours
+A Complete Guide For Beginning With K-Nearest Neighbours Algorithm In Python
+In this practise session, we will learn to code KNN Classifier.We will perform the following steps to build a simple classifier using the popular Iris dataset. You can find the dataset here.
+
+Step 1. Data Preprocessing 
+
+Importing the libraries.
+Importing dataset (Dataset Link https://archive.ics.uci.edu/ml/datasets/iris).
+Dealing with the categorical variable.
+Classifying dependent and independent variables.
+Splitting the data into a training set and test set.
+Feature scaling.
+Step 2. KNN Classification 
+
+Create a KNN classifier.
+Feed the training data to the classifier.
+Predicting the species for the test set.
+Using the confusion matrix to find accuracy.
